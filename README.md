@@ -1,4 +1,4 @@
-# NETWORKWALKS-AlphaTango-B083-WK1-PM1-CYBERSECURITY-LAB-SETUP
+# NETWORKWALKS Alpha Tango B083 WK1 PM1 CYBERSECURITY LAB SETUP
 
 ## Week 1 Project: Cybersecurity & Pentesting Lab Setup
 
