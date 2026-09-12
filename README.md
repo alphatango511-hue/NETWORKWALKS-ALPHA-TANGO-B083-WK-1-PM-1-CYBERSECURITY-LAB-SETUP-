@@ -9,8 +9,8 @@
 4. Installed Kali Linux on the Virtual Machine.
 5. Configured the network settings for the lab.
 
-# Screenshots 
-IMG-20260912-WA0012.jpg
+### Screenshots:
+- ![VirtualBox Setup](IMG-20260912-WA0012.jpg)
 
 ### Troubleshooting:
 - Problem: No major issues faced.
