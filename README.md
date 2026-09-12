@@ -1,4 +1,4 @@
-# NETWORKWALKS Alpha Tango B083 WK1 PM1 CYBERSECURITY LAB SETUP
+# NETWORKWALKS-AlphaTango-B083-WK1-PM1-CYBERSECURITY-LAB-SETUP
 
 ## Week 1 Project: Cybersecurity & Pentesting Lab Setup
 
@@ -13,5 +13,5 @@
 - ![VirtualBox Setup](PASTE_YOUR_IMAGE_LINK_HERE)
 
 ### Troubleshooting:
-- Problem: [What problem you faced]
-- Solution: [How you solved it]
+- Problem: No major issues faced.
+- Solution: N/A
