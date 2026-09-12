@@ -10,8 +10,7 @@
 5. Configured the network settings for the lab.
 
 ### Screenshots:
-- [Screenshot 1: VirtualBox showing the Kali VM]
-- [Screenshot 2: Kali Linux running inside the VM]
+- ![VirtualBox Setup](PASTE_YOUR_IMAGE_LINK_HERE)
 
 ### Troubleshooting:
 - Problem: [What problem you faced]
